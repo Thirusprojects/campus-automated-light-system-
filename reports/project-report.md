@@ -17,7 +17,7 @@ The system operates without a microcontroller. Switching and delay behavior are 
 
 I led the project team and handled sensor integration and wiring in the campus building. A teammate and I jointly created the Tinkercad circuit design. The team carried out the physical installation across the floor.
 
-![Campus installation work](../media/installation-04.jpg)
+![Campus installation work](../media/featured-installation-02.png)
 
 ## Design development
 

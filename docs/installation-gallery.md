@@ -2,6 +2,12 @@
 
 Project photographs of the campus lighting installation.
 
+## Featured installation photographs
+
+![On-site installation work](../media/featured-installation-01.png)
+
+![Ceiling installation work](../media/featured-installation-02.png)
+
 ## Installation view 1
 
 ![Installation work 1](../media/installation-01.jpg)

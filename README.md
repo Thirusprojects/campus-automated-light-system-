@@ -2,7 +2,7 @@
 
 **Motion-activated lighting across an entire campus floor, using approximately 8 PIR sensors with built-in relays to control 16 lights.**
 
-![Lighting installation in the campus building](media/installation-04.jpg)
+![Lighting installation in the campus building](media/featured-installation-02.png)
 
 **Thiruppathi P | Team Lead**  
 **Location:** Block 3, fourth floor, CHRIST (Deemed to be University), Kengeri Campus, Bengaluru  
@@ -47,9 +47,9 @@ The installation targets unnecessary lighting runtime. PIR sensing responds to m
 
 *Corridor photographs documenting the lighting demonstration.*
 
-![Sensor installation](media/installation-05.jpg)
+![On-site installation work](media/featured-installation-01.png)
 
-*Team installation work at a ceiling-mounted lighting point.*
+*On-site work during the campus lighting installation.*
 
 See the [installation gallery](docs/installation-gallery.md) for the remaining project photographs.
 
